@@ -1,0 +1,1290 @@
+@media (min-width: 1800px) {
+    .second-sec-main-header {
+        font-size: 12.8571428571rem;
+        padding-bottom: 4.2857142857rem;
+        margin-bottom: -8.5714285714rem;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1800px){
+    .second-sec-main-header{
+        font-size: 10.1428571429rem;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .second-sec-main-header {
+        font-size: 8.5714285714rem;
+        padding-bottom: 4.2857142857rem;
+    }
+    .designers-main .box-sub .text h2{
+        font-size: 5.7142857143rem;
+    }
+    .credits-main-section h2{
+        font-size: 11.4285714286rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    .credits-main {
+        padding: 21.4285714285rem 0 12.4285714285rem;
+    }
+    .credits-main-section ul li,
+    .credits-main ul li {
+        font-size: 2.8571428571rem;
+    }
+    .press-main .box h2{
+        font-size: 7.8571428571rem;
+    }
+    .designer-name h2{
+        font-size: 15.7143rem;
+    }
+    .big-font-main h2{
+        font-size: 7.8571428571rem;
+    }
+}
+
+@media (max-width: 1600px){
+    .popup-watch .container-popup{
+        max-width: 1280px;
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width:1599px){
+    .second-sec-main-header{
+        font-size: 8.4285714286rem;
+    }
+    .designer-name h2{
+        font-size: 12.8571428571rem;
+    }
+    .big-font-main h2{
+        font-size: 6.4285714286rem;
+    }
+    .credits-main-section h2{
+        font-size: 12.8571428571rem;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1599px){
+    .credits-main ul li{
+        font-size: 2.1428571429rem;
+    }
+    .designers-home .content a{
+        font-size: 3.5714285714rem;
+    }
+    .footer-main{
+        padding: 6.714286rem 0 8rem;
+    }
+    .designer-quote-sub a{
+        font-size: 5.7142857143rem;
+    }
+    .credits-main-section ul li{
+        font-size: 2.1428571429rem;
+    }
+    .big-text-main{
+        padding:17.1428571429rem 0 8.5714285714rem 0
+    }
+}
+
+@media (max-width: 1599px){
+    .filmmakers-home .p-text p{
+        font-size: .8571428571rem;
+    }
+    .screenings-main{
+        margin:8.714286rem 0 12.857143rem
+    }
+    .sub-news-item{
+        margin-top: 8.5714285714rem;
+    }
+    .news-first-heading{
+        padding:25vh 0 12.8571428571rem 0
+    }
+}
+
+@media screen and (min-width:1199px) and (max-width:1599px){
+    .filmmakers-home .filmmakers-name{
+        font-size: 6.4285714286rem;
+    }
+    .news-first-heading h2{
+        font-size: 5.7142857143rem;
+        margin:2.1428571429rem 0
+    }
+    .news-first-heading.contact-main-section h2{
+        margin:4.142857rem 0
+    }
+}
+
+@media screen and (min-width:1399px) and (max-width:1599px){
+    .press-main .box h2{
+        font-size: 6.4285714286rem;
+    }
+}
+
+@media (min-width: 1400px) {
+    .press-main .box h2{
+        padding-top: 4.2857142857rem;
+    }
+    .ticket-main h2 {
+        font-size: 8.5714285714rem;
+    }
+    .v-screening_date_plus {
+        margin-left: 38%;
+        width: 2.9285714286rem;
+        height: 2.9285714286rem;
+    }
+    .v-credits_infos {
+        margin-top: 4.2857142857rem;
+    }
+    .v_makers_item:nth-child(2){
+        margin-top: 10rem;
+    }
+    .v_makers_item:nth-child(3){
+        margin-top: 20rem;
+    }
+    .v_makers_item:nth-child(4){
+        margin-top: 15rem;
+    }
+    .press-main .box{
+        margin:8.5714285714rem 0;
+        position: relative;
+    }
+    .stills-main{
+        padding: 0 33.3333333333% 0 16.6666666667%;
+        margin: 8.5714285714rem 0;
+    }
+}
+
+@media (max-width: 1399px){
+    .press-main .box h2{
+        padding-top: 2.1428571429rem;
+    }
+    .contact-main-section a{
+        font-size: 1.7857142857rem;
+    }
+}
+
+@media (min-width: 1399px){
+    .v-screening_date .v-screening_date_link h3{
+        font-size: 1.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_link{
+        font-size: 1.1428571429rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium,
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        padding-bottom: 2.8571428571rem;
+        padding-top: 2.8571428571rem;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1399px){
+    .ticket-main h2{
+        font-size: 7.8571428571rem;   
+    }
+    .press-main .box{
+        margin:4.2857142857rem 0
+    }
+    .v-screening_date .v-screening_date_link h3{
+        font-size: 1.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_link{
+        font-size: 1.1428571429rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium,
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        padding-bottom: 2.8571428571rem;
+        padding-top: 2.8571428571rem;
+    }
+}
+
+@media (max-width:1199px){
+    .v_makers_item p,
+    .film-credit-line,
+    .nav-button .nav-text,
+    .film-description,
+    .v-label,
+    .designers-home .head,
+    .credits-main p{
+        font-size: .6428571429rem;
+    }
+    .v_makers_item .v-makers_name{
+        font-size: 1.1428571429rem;
+    }
+    .press-main .box{
+        margin: 4.2857142857rem 0;
+    }
+    .content .v1-2-medium{
+        margin-bottom: 2.1428571429rem;
+        width: 100%;
+    }
+    .content .v1-2-medium:last-child{
+        margin-bottom: 0;
+    }
+    .designer-details{
+        margin:1.142857rem 0 6.571429rem 0;
+    }
+    .big-font-main{
+        margin:4.571429rem 0 8.571429rem
+    }
+    .filmmakers-home .box {
+        margin-bottom: 5.571429rem;
+    }
+    .filmmakers-home .box:last-child {
+        margin-bottom: 0;
+    }
+    .big-text-main{
+        padding:17.714286rem 0 3.857143rem 0
+    }
+    .vids-transitions-skewed-lines{
+        width: 45vw;
+    }
+}
+
+@media screen and (min-width:1199px) and (max-width:1399px){
+    .press-main .box h2{
+        font-size: 5rem;
+    }
+    .big-font-main h2{
+        font-size: 5rem;
+    }
+    .designer-name h2{
+        font-size: 11.4285714286rem;
+    }
+}
+
+@media screen and (min-width:1000px) and (max-width:1399px){
+    .v_makers_item:nth-child(2){
+        margin-top: 5.7142857143rem;
+    }
+    .v_makers_item:nth-child(3) {
+        margin-top: 11.4285714286rem;
+    }
+    .v_makers_item:nth-child(4) {
+        margin-top: 8.5714285714rem;
+    }
+    .stills-main{
+        padding:0 16.6666666667% 0 16.6666666667% 
+    }
+    .designer-quote-sub{
+        padding-top: 2.285714rem;
+        margin: 6.571429rem 0 1rem;   
+    }
+    .designer-quote-sub .head{
+        margin-bottom: 4.571429rem;
+    }
+}
+
+@media screen and (min-width:999px) and (max-width:1399px){
+    .v-credits_infos{
+        margin-top: 2.1428571429rem;
+    }
+    .designers-home .head{
+        padding-top: 2.1428571429rem;
+        margin-bottom: 4.2857142857rem;
+    }
+    .designers-home .v1-2-medium{
+        margin-bottom: 2.571429rem;
+    }
+}
+
+@media screen and (min-width:700px) and (max-width:1399px){
+    .v-screening_date_plus{
+        width: 2.2142857143rem;
+        height: 2.2142857143rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .v-button:focus::before,
+    .v-button:hover::before {
+        opacity: 0;
+        -webkit-transform: scaleY(0);
+        -ms-transform: scaleY(0);
+        transform: scaleY(0);
+        transition-delay: 0s;
+    }
+    .v-button:focus::after,
+    .v-button:hover::after {
+        opacity: 1;
+        -webkit-transform: scaleY(1);
+        -ms-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+    .credits-main {
+        padding: 12.428571rem 0 12.4285714285rem;
+    }
+}
+
+@media (min-width: 1000px) {
+    .v1-6-medium {
+        width: 16.6666666667%;
+    }
+    .v1-1-medium {
+        width: 83.3333333333%;
+    }
+    .v1-2-medium {
+        width: 50%;
+    }
+    .v-full{
+        width: 100%;
+    }
+    .header-logo {
+        z-index: 700;
+    }
+    .fix-container {
+        max-width: 66.6666666667%;
+    }
+    .v-nav {
+        padding-top: 8.5714285714rem;
+    }
+    .v-nav_list {
+        max-width: 75%;
+    }
+    .v1-4-medium {
+        width: 75%;
+    }
+    .v1-3-medium {
+        width: 25%;
+    }
+    .v-nav_link {
+        font-size: 7vw;
+    }
+    .menu-open .nav-one {
+        -webkit-transform: translateX(9px) rotate(45deg);
+        -ms-transform: translateX(9px) rotate(45deg);
+        transform: translateX(9px) rotate(45deg);
+        background-color: #000 !important;
+    }
+    .menu-open .nav-three {
+        background-color: #000 !important;
+        -webkit-transform: translateX(-9px) rotate(-45deg);
+        -ms-transform: translateX(-9px) rotate(-45deg);
+        transform: translateX(-9px) rotate(-45deg);
+    }
+    .credits-main .box:nth-child(2) {
+        margin-top: 8.5714285714rem;
+    }
+    .v-nav_footer_socials_item:last-child a,
+    .v-footer_socials_item:last-child a {
+        padding-bottom: 0;
+    }
+    .down .film-col-credits,
+    .down .film-col-desc {
+        -webkit-transform: translateY(-120%);
+        -ms-transform: translateY(-120%);
+        transform: translateY(-120%);
+    }
+    .down .menu-open .film-col-credits,
+    .down .menu-open .film-col-desc {
+        -webkit-transform: unset;
+        -ms-transform: unset;
+        transform: unset;
+    }
+     .back-image-main{
+        right: 0px;
+        width: 66.6666666667%;
+    }
+}
+
+@media (min-width: 700px) {
+    .v-screening_date_col.v1-3-medium::before,
+    .v-screening_date_col.v1-3-medium::after {
+        content: "";
+        position: absolute;
+        height: 15px;
+        width: 1px;
+        background-color: #000;
+    }
+    .v-screening_date_col.last-box::after {
+        top: 0;
+        left: 0;
+    }
+    .v-screening_date_col.last-box::before {
+        bottom: 0;
+        left: 0;
+    }
+    .v-screening_date_col.first-box::after {
+        top: 0;
+        right: 0;
+    }
+    .v-screening_date_col.first-box::before {
+        bottom: 0;
+        right: 0;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1599px) {
+    .relative-parent span{
+        font-size: 21.4285714286rem;
+    }
+    .footer-main .big-text{
+        margin:6.714286rem auto 5rem
+    }
+}
+
+@media screen and (min-width:1000px) and (max-width:1199px) {
+    .relative-parent span{
+        font-size: 17.8571428571rem;
+    }
+    .watch-main h3{
+        font-size: 2.8571428571rem
+    }
+    .watch-main .box-footer svg,
+    .watch-main .box-img svg{
+        width: 9.2857142857rem;
+        height: 2.5714285714rem;
+    }
+    .watch-main .box-two,
+    .watch-main .box-desc{
+        height: 12.8571428571rem;
+    }
+    .second-sec-main-header{
+        font-size: 7.1428571429rem;
+        padding-bottom: 2.1428571429rem;
+    }
+    .ticket-main h2{
+        font-size: 6.4285714286rem;
+    }
+    .ticket-main{
+        margin-top: 12rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium,
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        padding-bottom: 2.8571428571rem;
+        padding-top: 2.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_link h3{
+        font-size: 1.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_link{
+        font-size: 1.1428571429rem;
+    }
+    .credits-main{
+        padding: 10rem 0;
+    }
+    .designer-name h2{
+        font-size: 8.5714285714rem;
+        padding-bottom: 4.2857142857rem;
+    }
+    .credits-main-section h2{
+        font-size: 8.5714285714rem;
+    }
+    .credits-main-section ul li{
+        font-size: 1.7857142857rem;
+    }
+}
+
+@media screen and (min-width:700px) and (max-width:1199px) {
+    .popup-watch .container-popup{
+        padding: 50px 20px;
+    }
+    .popup-watch .close-btn{
+        top: -0.5rem;
+        right: 0;
+    }
+    .v-slide-canvas{
+        width: 80%;
+        height: 80%;
+    }
+    .v-expo-logo{
+        width: 30rem;
+        height: 30rem;   
+    }
+    .v-cbc-logo{
+        width: 300px;
+        height: 300px;
+    }
+    .credits-main ul li{
+        font-size: 1.7857142857rem;
+    }
+    .designers-home .content a{
+        font-size: 2.8571428571rem;
+    }
+    .footer-main .big-text{
+        margin: 5.714286rem auto 5rem;
+    }
+    .footer-main{
+        padding: 5.714286rem 0 4rem;
+    }
+    .designers-main .box-sub .text h2{
+        font-size: 5.2857142857rem;
+    }
+    .designer-quote-sub a{
+        font-size: 4.2857142857rem;
+    }
+}
+
+@media screen and (min-width:699px) and (max-width:1199px) {
+    .second-sec-main .video-item,
+    .second-sec-main .watch-trailer,
+    .second-sec-main .watch-trailer{
+        width: 50%;
+    }
+    .press-main .box h2{
+        font-size: 4.2857142857rem;
+    }
+    .filmmakers-home .filmmakers-name{
+        font-size: 5.7142857143rem;
+        margin:2.285714rem 0
+    }
+    .filmmakers-home .p-text{
+        margin-top:1.285714rem
+    }
+    .news-first-heading h2{
+        font-size: 5rem;
+    }
+    .news-first-heading h3{
+        margin:2.285714rem 0;
+        font-size: 2.5rem;
+    }
+    .contact-main-section h2{
+        margin: 2.285714rem 0 3.285714rem;
+    }
+    .contact-main-section h2{
+        font-size: 4.6428571429rem;
+    }
+    .contact-main-section .box-sub{
+        margin-bottom: 3rem;
+    }
+    .contact-main-section .social-icons a{
+        margin:2.585714rem 0;
+    }
+    .news-first-heading.contact-main-section{
+        padding:25vh 0 0 0
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1024px) {
+    .film-grid {
+        grid-template-columns: repeat(6, 1fr);
+    }
+    .graphic-badge svg {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media screen and (max-width:999px){
+    .watch-main.popup-watch .v1-2-medium.white-box,
+    .watch-main.popup-watch .v1-2-medium.primary-box{
+        width: 100%;
+    }
+    .popup-watch{
+        align-items: flex-start;
+    }
+    .watch-main h3 br{
+        display: none;
+    }
+    .watch-main .box-two .v1-2-medium{
+        width: 50%;
+    }
+    .header{
+        position: relative;
+    }
+    .v-nav .v-nav_background .layout-item:nth-child(1),
+    .v-nav .v-nav_background .layout-item:nth-child(4),
+    .vertical-lines .vl:nth-child(4),
+    .vertical-lines .vl:nth-child(1){
+        width:8.3333333333%
+    }
+    .v-nav .v-nav_background .layout-item:nth-child(2),
+    .v-nav .v-nav_background .layout-item:nth-child(3),
+    .vertical-lines .vl:nth-child(3),
+    .vertical-lines .vl:nth-child(2){
+        width: 41.6666666667%;
+    }
+    .film-col-brand {
+        padding-left: 0;
+        width: 100%;
+    }
+    .header .v1-6-medium{
+        width: 50%;
+    }
+    .fix-container,
+    .header .v-container{
+        max-width: 83.3333%;
+    }
+    .film-credit-line, .film-description{
+        margin-top: 5.5rem;
+    }
+    .nav-button .nav-text{
+        display: none;
+    }
+    .nav-button{
+        padding: 20px calc(-7px + 4.16667vw);
+    }
+    .nav-button .nav-line{
+        width: 14px;
+        height: 18px;
+    }
+    .v-logos-slider_timeline{
+        left:8.3333333333%;
+        bottom: 3.142857rem;
+    }
+    .v-logos-slider{
+        height: 45rem;
+    }
+    .v-expo-logo{
+        transform: scale(0.8);
+    }
+    .v-nav_logo{
+        display: none;
+    }
+    .menu-open .nav-one {
+        -webkit-transform: translateX(6px) rotate(45deg);
+        -ms-transform: translateX(6px) rotate(45deg);
+        transform: translateX(6px) rotate(45deg);
+        background-color: #000 !important;
+    }
+    .menu-open .nav-three {
+        background-color: #000 !important;
+        -webkit-transform: translateX(-6px) rotate(-45deg);
+        -ms-transform: translateX(-6px) rotate(-45deg);
+        transform: translateX(-6px) rotate(-45deg);
+    }
+    .v-nav_link{
+        font-size: 11vw;
+    }
+    .v-nav .v-nav_background .layout-item:nth-child(4):before{
+        background-color: transparent;
+    }
+    .header-logo{
+        z-index: 1111;
+        width: 20%;
+    }
+    .header-logo img{
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+    .film-credit-line, .film-description{
+        height: 15vh;
+        display: flex;
+        align-items: flex-end;
+        margin-top: 0;
+    }
+    .v-nav_list .v-layout_item{
+        width: 100% !important;
+        padding-bottom:15px
+    }
+    .v-nav_list{
+        margin-top: 70px;
+        overflow: auto;
+        max-height: calc(100vh - 220px);
+        scrollbar-width: thin;
+        scrollbar-color: var(--primary) #fff;
+    }
+    .v-nav_footer{
+        padding: 0 3.3%;
+    }
+    .v-slide-canvas{
+        width: 100%;
+        height: auto;
+    }
+    .v-logos-slider_timeline_item{
+        width: calc(100vw / 4 / 2 - 4px);
+    }
+    .second-sec-main-header{
+        font-size: 7.1428571429rem;
+        padding-top:0;
+        padding-bottom: 6vh;
+    }
+    .ticket-main{
+        margin-top: 0;
+        margin-bottom: 12rem;
+    }
+    .makers-main .v1-3-medium.-infos,
+    .v-credits_infos .v1-2-medium{
+        width: 50%;
+    }
+    .makers-main{
+        padding-bottom:2rem
+    }
+    .v-action-watch_link{
+        display: none;
+    }
+    .v-logos-slider_item,
+    .v-expo-logo_inner,
+    .v-logos-slider_canvas_container{
+        top:-10%
+    }
+    .makers-main .v1-3-medium{
+        width: 70%;
+        margin-top: 40px;
+    }
+    .makers-main .v1-3-medium:first-child{
+        margin-top: 0;
+    }
+    .v_makers{
+        flex-wrap: wrap;
+    }
+    .ticket-main h2{
+        font-size: 6.4285714286rem;
+    }
+    .v-screening_date .v-screening_date_link h3{
+        font-size: 1.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_link{
+        font-size: 1.1428571429rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium,
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        padding-bottom: 2.8571428571rem;
+        padding-top: 2.8571428571rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        width: 25%;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium{
+        width: 50%;
+    }
+    .credits-main .row{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .credits-main .box{
+        margin-bottom: 5rem;
+    }
+    .vids-transitions-rofl_wrapper{
+        width: 100%;
+    }
+    .designers-main .v1-1-medium{
+        max-width: 83.3333333333%;
+        margin: 0 auto;
+        padding-top: 70px;
+        max-height: 100%;
+        overflow: hidden;
+    }
+    .designers-main .swiper-button-prev,
+    .designers-main .swiper-button-next{
+        display: none;
+    }
+    .designers-main .box-sub{
+        padding:30px 0;
+        height: calc(100vh - 29.7vh);
+    }
+    .designers-main .swiper-slide-active .bottom-text, 
+    .designers-main .swiper-slide-active .head-text{
+        opacity: 1;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        transition-delay: 500ms !important;
+        transition: opacity .6s cubic-bezier(.77, 0, .175, 1), -webkit-transform .6s cubic-bezier(.77, 0, .175, 1);
+        transition: transform .6s cubic-bezier(.77, 0, .175, 1), opacity .6s cubic-bezier(.77, 0, .175, 1);
+        transition: transform .6s cubic-bezier(.77, 0, .175, 1), opacity .6s cubic-bezier(.77, 0, .175, 1), -webkit-transform .6s cubic-bezier(.77, 0, .175, 1);
+        transition: transform .6s, opacity .6s, -webkit-transform .6s;
+    }
+    .v-footer_item.box-left{
+        position: relative;
+        left: 6.333333%;
+        margin-top:5rem;
+        bottom: 3rem;
+    }
+    .v-footer_socials_item a{
+        padding-bottom: 0;
+    }
+    .v-nav_footer .v-footer_socials_item a{
+        padding:1.4285714286rem 0
+    }
+    .v-footer_socials{
+        display: flex;
+        gap:30px;
+    }
+    .designers-container .v-footer_item.box-left{
+        display: none;
+    }
+    .designers-main .box-sub .text h2{
+        max-width: 100%;
+    }
+    .designer-name .back-image img{
+        height: 100%;
+        object-fit: cover;
+    }
+    .designer-name .back-image,
+    .back-image-main{
+        position: unset;
+    }
+    .designer-name{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        margin-top:5rem;
+    }
+    .back-image-main:before{
+        display: none;
+    }
+    .designer-name .fix-container{
+        width: 100%;
+    }
+    .designer-name h2{
+        font-size: 7.1428571429rem;
+    }
+    .v-sharer_list,
+    .v-sharer_button_main{
+        position:unset;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+    }
+    .v-sharer_button_main.animate-show .v-sharer_list a{
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        opacity: 1;
+        transition-delay: .3s;
+    }
+    .v-sharer_list li{
+        margin: 0;
+    }
+    .v-sharer_button_main{
+        margin-bottom:5rem;
+    }
+    .city-head .v1-2-medium{
+        width:50%
+    }
+    .birthplace-main .v1-2-medium{
+        width:100%
+    }
+    .birthplace-main .image img{
+        min-height: 400px;
+    }
+    .birthplace-main .o-button-round{
+        margin-bottom:4.5rem
+    }
+    .birthplace-main .v1-2-medium.v-label{
+        width: 50%;
+        margin-bottom:4rem
+    }
+    .big-font-main h2{
+        font-size: 4.2857142857rem;
+    }
+    .stills-main{
+        padding:0 8.33333333% 0 8.33333333%
+    }
+    .designer-quote-sub{
+        padding-top: 1.285714rem;
+        margin: 6.571429rem 0 0;
+        flex-direction: column-reverse;
+    }
+    .designer-quote-sub .head{
+        margin-bottom: 2.571429rem;
+    }
+    .watch-footer .layout {
+        justify-content: end;
+    }
+    .watch-footer .v1-3-medium{
+        width: 25%;
+    }
+    .watch-footer p{
+        max-width: 100%;
+    }
+    .news-first-heading .v1-3-medium{
+        width: 25%;
+    }
+    .news-first-heading .v1-4-medium{
+        width: 75%;
+    }
+    .news-first-heading .v1-2-medium{
+        width: 50%;
+    }
+    .news-first-heading .v-full{
+        width: 100%;
+    }
+    .credits-main-section ul li{
+        font-size: 1.7857142857rem;
+    }
+    .credits-main-section h2{
+        font-size: 7.1428571429rem;
+    }
+    .credits-box{
+        padding-top: 1.4285714286rem;
+    }
+    .news-first-heading h2{
+        margin:3.285714rem 0 1.285714rem;
+    }
+    .filmmakers-home .cust-animate.v-label{
+        width: 50%;
+    }
+    .filmmakers-home img{
+        width: 50%;
+    }
+    .filmmakers-home .box:nth-child(odd),
+    .filmmakers-home .box:nth-child(even) {
+        margin-top: 0;
+    }
+    .watch-main .primary-box,
+    .watch-main .white-box{
+        width: 100%;
+    }
+    .big-text-main{
+        padding: 9.714286rem 0 3.857143rem 0;
+    }
+    .screenings-main p{
+        margin-left: 0;
+        margin-top:2.285714rem;
+    }
+    .designers-home .head{
+        margin-bottom: 3rem;
+        padding-top: 1rem;
+    }
+    .news-first-heading.news-main-sec h2{
+        margin:2.1428571429rem 0;
+        padding-right: 2.1428571429rem;
+    }
+    .news-first-heading.news-main-sec .d-flex .v1-2-medium,
+    .news-first-heading.news-main-sec .v1-3-medium{
+        width: 50%;
+    }
+    .news-first-heading.news-main-sec .v1-2-medium.sub-news-item{
+        width: 100%;
+    }
+    .sub-news-item:nth-child(even){
+        -webkit-transform: unset;
+        -ms-transform: unset;
+        transform: unset;
+    }
+    .news-first-heading.news-main-sec h3{
+        padding-right:2.1428571429rem
+    }
+    .news-first-heading.news-main-sec{
+        padding:25vh 0 8.857143rem 0
+    }
+    .news-first-heading.contact-main-section .v1-2-medium{
+        width: 100%;
+    }
+    .news-first-heading.contact-main-section .v1-2-medium .v1-2-medium{
+        width: 50%;
+    }
+    .contact-main-section.news-first-heading h2{
+        margin:2.285714rem 0 3.285714rem
+    }
+    .contact-main-section .box-sub {
+        margin-bottom: 4rem;
+    }
+    .contact-main-section .social-icons{
+        position: unset;
+    }
+}
+
+@media screen and (min-width:700px) and (max-width:999px){
+    .footer-main .big-text a,
+    .relative-parent span{
+        font-size: 12.8571428571rem;
+    }
+    .screenings-main h3{
+        font-size: 3.5714285714rem;
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .designers-main .box-sub .text h2 {
+        font-size: 3.285714rem;
+        max-width: 100%;
+    }
+    .v-cbc-logo{
+        width: 50%;
+        height: 50%;
+    }
+}
+
+@media (max-width: 700px){
+    .relative-parent span{
+        font-size: 7.1428571429rem;
+    }
+    .designer-quote-sub a{
+        font-size: 2.8571428571rem;
+    }
+    .footer-main .big-text{
+        margin:5.714286rem auto 0rem
+    }
+    .watch-footer{
+        padding-bottom:2rem;
+    }
+    .v-footer_item.box-left{
+        margin-top: 3rem;
+    }
+    .designer-name h2{
+        font-size: 4.2857142857rem;
+        padding-top:25vh
+    }
+    .footer-main{
+        padding:6.714286rem 0 4rem
+    }
+    .watch-footer .v1-3-medium{
+        width: 50%;
+        margin-bottom: 2rem;
+    }
+    .watch-footer .v1-3-medium:last-child{
+        margin-bottom: 0;
+    }
+    .v_makers_item p, 
+    .nav-button .nav-text, 
+    .v-label, 
+    .designers-home .head, 
+    .credits-main p,
+    .watch-footer p{
+        font-size: .7857142857rem;
+    }
+    .watch-footer .layout{
+        justify-content: flex-start;
+    }
+    .watch-footer .v1-3-medium.blank_div{
+        display: none;
+    }
+    .birthplace-main p{
+        font-size: 1rem;
+    }
+    .big-font-main h2{
+        font-size: 2.5rem;
+    }
+    .news-first-heading .v1-2-medium,
+    .news-first-heading .v1-4-medium,
+    .news-first-heading .v1-3-medium{
+        width: 100%;
+    }
+    .news-first-heading .box-sub .v1-3-medium{
+        width: 50%;
+    }
+    .news-first-heading{
+        padding-top:9vh;
+    }
+    .sub-credits div:last-child .credits-box{
+        padding-bottom: 0;
+    }
+    .news-first-heading h2{
+        font-size: 4.2857142857rem;
+    }
+    .news-first-heading .box-sub .v1-3-medium span{
+        font-size: 1rem;
+    }
+    .credits-main-section ul li{
+        font-size: 2.1428571429rem;
+    }
+    .designers-home .content a{
+        font-size: 2.8571428571rem;
+    }
+    .designers-home .head{
+        margin-bottom: 2.571429rem;
+        padding-top: 1.285714rem;
+    }
+    .designers-home .v1-2-medium{
+        margin-bottom: 0;
+    }
+    .filmmakers-home{
+        padding-top:8vh;
+    }
+    .filmmakers-home .cust-animate.v-label *{
+        font-size: 1rem;
+        padding-right:5px;
+    }
+    .filmmakers-home .filmmakers-name{
+        font-size: 4.2857142857rem;
+        margin:2.1428571429rem 0
+    }
+    .filmmakers-home img{
+        width: 100%;
+    }
+    .filmmakers-home .p-text{
+        margin-top:1.285714rem;
+        width: 100%;
+    }
+    .big-text-main {
+        padding: 9.714286rem 0 0 0;
+    }
+    .watch-main .box-desc-right,
+    .watch-main .box-desc,
+    .watch-main .primary-box .box-one{
+        padding:15px;
+    }
+    .watch-main h3{
+        font-size: 30px;
+    }
+    .watch-main .primary-box .box-header{
+        width:calc(100% - 30px);
+        top:15px;
+    }
+    .watch-main .box-footer svg,
+    .watch-main .box-img svg{
+        width: 100px;
+        height: 28px;
+    }
+    .watch-main .box-two{
+        height: 150px;
+    }
+    .screenings-main h3{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .screenings-main{
+        margin:4.714286rem 0 4.857143rem
+    }
+    .news-first-heading.news-main-sec{
+        padding:8vh 0 0 0
+    }
+    .news-first-heading.news-main-sec .v1-2-medium.sub-news-item{
+        margin-top: 5.571429rem;
+    }
+    .news-first-heading.news-main-sec .d-flex .v1-2-medium,
+    .news-first-heading.news-main-sec .v1-3-medium{
+        font-size: 1rem;
+    }
+    .news-first-heading.news-main-sec h3,
+    .news-first-heading.news-main-sec h2{
+        font-size: 2.1428571429rem;
+        margin:1.142857rem 0;
+        padding-right: 0;
+    }
+    .news-first-heading.contact-main-section span{
+        font-size: 1rem;
+    }
+    .contact-main-section .social-icons a{
+        margin:2.585714rem 0;
+    }
+    .news-first-heading.contact-main-section{
+        padding-bottom:0
+    }
+    .news-first-heading.contact-main-section h2{
+        font-size: 3.285714rem;
+    }
+    .contact-main-section a{
+        font-size: 1.4285714286rem;
+    }
+    .v-logos-slider_info_line.u-small,
+    .designers-home .head span{
+        font-size: 1rem;
+    }
+    .second-sec-main-header{
+        font-size: 4.2857142857rem;
+    }
+    .second-sec-main h4{
+        font-size: 1.7142857143rem;
+        margin-bottom: .7142857143rem;
+    }
+    .second-sec-main p{
+        font-size: 1rem;
+    }
+    .ticket-main h2{
+        font-size: 3.5714285714rem;
+    }
+    .v-screening_date .v-screening_date_col.v1-3-medium:first-child{
+        display: none;
+    }
+    .v-screening_date .v-screening_date_col.v1-2-medium{
+        padding: 2.1428571429rem;
+        width: 100%;
+    }
+    .v-screening_date_plus::before{
+        height: 20px;
+        margin: auto;
+    }
+    .v-screening_date_plus::after,
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        width: 20px;
+    }
+    .v-screening_date .v-screening_date_col.v1-3-medium{
+        padding-right: 40px;
+    }
+    .ticket-main{
+        margin-bottom:6rem;
+    }
+    .credits-main p{
+        padding:20px 0 20px
+    }
+    .credits-main ul li{
+        font-size: 2.1428571429rem;
+    }
+    .v-credits_infos{
+        margin-top: 2rem;
+    }
+    .makers-main{
+        padding-top: 5rem;
+    }
+    .v-credits_infos .v1-2-medium:first-child{
+        margin-bottom: 1rem;
+    }
+    .v-slide-canvas{
+        width: 500px;
+        height: 500px;
+    }
+    .v-expo-logo{
+        transform: scale(0.6);
+        width: 100%;
+    }
+    .v-credits_infos .v1-2-medium,
+    .second-sec-main .video-item,
+    .second-sec-main .watch-trailer,
+    .makers-main .v1-3-medium.-infos,
+    .makers-main .v1-3-medium{
+        width: 100%;
+    }
+    .second-sec-main .video-item{
+        margin-bottom: 6rem;
+    }
+    .v-sharer_button_main{
+        margin-bottom: 0;
+    }
+    .press-main .box h5,
+    .makers-main .v1-3-medium.-infos p{
+        font-size: 1rem;
+    }
+    .press-main .box h2{
+        font-size: 2.5rem;
+    }
+    .v-screening_date_plus::after{
+        margin: auto;
+        left: 0;
+        right: 0;
+        transform: translate(-50%, -50%);
+    }
+    .popup-watch .container-popup{
+        padding: 50px 30px;
+    }
+    .popup-watch .close-btn{
+        top: -0.5rem;
+        right: 0;
+    }
+    .popup-watch {
+        align-items: center;
+    }
+    .vids-transitions-skewed-lines{
+        width: 65vw;
+    }
+    .designer-details .v-sharer_button_main{
+        margin-bottom:4rem
+    }
+}
+
+@media screen and (max-width:575px) {
+    .v-nav_footer {
+        padding: 0 2.5vw;
+    }
+    .birthplace-main .image img{
+        min-height: auto;
+        min-width: 180px;
+    }
+    .birthplace-main .image{
+        max-width: max-content;
+    }
+    .trailer-dialog_video{
+        aspect-ratio: auto;
+    }
+    .trailer-dialog_inner{
+        max-width: calc(100vw - 40px);
+    }
+    .v-cbc-logo{
+        width: 100%;
+        height: 100%;
+    }
+    .vids-transitions-rofl{
+        width: 90vw;
+        height: 90vw;
+    }
+    .vids-transitions-skewed-lines{
+        width: 80vw;
+    }
+    .reference-video-media{
+        min-height: 220px;
+    }
+}
