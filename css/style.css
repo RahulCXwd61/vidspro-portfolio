@@ -5365,3 +5365,7 @@ a.v-black {
 }
 
 /* End Contact us Page */
+
+#nl-badge-frame{
+    display: none !important;
+}
