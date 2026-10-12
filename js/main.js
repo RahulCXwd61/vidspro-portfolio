@@ -129,6 +129,9 @@ function initPageComponents(root) {
 // Must be called before each Barba transition to prevent duplicate listeners
 // and stale slider instances on the outgoing page.
 function destroyPageComponents() {
+  // Cancel popup timers before leaving the current page.
+  destroyPopupWatch();
+
   if (typeof destroySmoothScroll === 'function') {
     destroySmoothScroll();
   }
@@ -1212,14 +1215,27 @@ function initActionWatch() {
 
 // Scroll direction (html.up / html.down) is handled by smooth-scroll.js via Lenis.
 
+
+var _popupWatchTimer = null;
+var _popupWatchCleanup = null;
+
 function initPopupWatch() {
+  // Clear any previous popup timer/listeners.
+  destroyPopupWatch();
+
   var popup = document.querySelector('.popup-watch');
   if (!popup) return;
 
   popup.setAttribute('data-lenis-prevent', '');
 
   function syncPopupScrollLock() {
-    if (typeof stopSmoothScroll !== 'function' || typeof startSmoothScroll !== 'function') return;
+    if (
+      typeof stopSmoothScroll !== 'function' ||
+      typeof startSmoothScroll !== 'function'
+    ) {
+      return;
+    }
+
     if (popup.classList.contains('active')) {
       stopSmoothScroll();
     } else if (!document.body.classList.contains('menu-open')) {
@@ -1227,20 +1243,48 @@ function initPopupWatch() {
     }
   }
 
-  // Show popup after 2 seconds
-  setTimeout(function () {
+  function closePopup() {
+    popup.classList.remove('active');
+    syncPopupScrollLock();
+  }
+
+  var closeButtons = popup.querySelectorAll('.watch-close');
+
+  closeButtons.forEach(function (button) {
+    button.addEventListener('click', closePopup);
+  });
+
+  // Store cleanup for the current page.
+  _popupWatchCleanup = function () {
+    closeButtons.forEach(function (button) {
+      button.removeEventListener('click', closePopup);
+    });
+  };
+
+  // Show popup after 10 seconds.
+  _popupWatchTimer = setTimeout(function () {
+    _popupWatchTimer = null;
+
+    // Never activate a popup belonging to a removed page.
+    if (!popup.isConnected) return;
+
     popup.classList.add('active');
     syncPopupScrollLock();
   }, 10000);
-
-  // Close popup
-  popup.querySelectorAll('.watch-close').forEach(function (button) {
-    button.addEventListener('click', function () {
-      popup.classList.remove('active');
-      syncPopupScrollLock();
-    });
-  });
 }
+
+function destroyPopupWatch() {
+  if (_popupWatchTimer !== null) {
+    clearTimeout(_popupWatchTimer);
+    _popupWatchTimer = null;
+  }
+
+  if (_popupWatchCleanup) {
+    _popupWatchCleanup();
+    _popupWatchCleanup = null;
+  }
+}
+
 
 /* ==========================================================================
    WORD-BY-WORD REVEAL  —  .every-animate

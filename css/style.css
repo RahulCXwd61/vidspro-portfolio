@@ -3511,7 +3511,8 @@ a.v-black {
     font-weight: 600;
 }
 
-.v-screening_date .v-screening_date_link {
+.v-screening_date .v-screening_date_link,
+.v-screening_date .v-screening_date_link p {
     display: flex;
     align-items: center;
     color: #000;
